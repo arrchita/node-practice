@@ -1,0 +1,15 @@
+1725823098394: New Request Received
+1725823098495: New Request Received
+//why is it printed twice when the server runs? 
+
+1725823122730: New Request Received
+1725823122834: New Request Received
+1725823464361:/: New Request Received
+1725823551707:/about: New Request Received
+1725823551916:/favicon.ico: New Request Received
+1725823557672:/: New Request Received
+1725823557753:/favicon.ico: New Request Received
+1725823570106:/about: New Request Received
+1725823570179:/favicon.ico: New Request Received
+1725823572013:/about: New Request Received
+1725823572088:/favicon.ico: New Request Received
